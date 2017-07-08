@@ -1,6 +1,6 @@
-# aa
+# 仿写站酷，锻炼技术
 
-> aa
+> 使用vue + jquery + bootstrap
 
 ## Build Setup
 
