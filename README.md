@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+# install jQuery
+npm install jquery --save-dev
+
 # serve with hot reload at localhost:8080
 npm run dev
 
